@@ -1,0 +1,207 @@
+
+.nav-link:hover {
+    color: tomato;
+}
+
+
+.nav-item {
+
+  
+    list-style: none;
+    display: inline-block;
+
+    width: 10%;
+    
+   
+    
+}
+.nav-link {
+color: aqua;
+text-decoration: none;
+
+
+
+
+
+
+}
+h5 {
+
+    text-align:  right;
+    font-family: 'Lato', sans-serif;
+margin-right: 250px;
+
+}
+a {
+    line-height: 1;
+    display: inline-block;
+    color:#ffeb3b;
+    text-decoration:none;
+    cursor: pointer;
+}
+a:after {
+    display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color: tomato;
+    transition: width .3s ease-in-out;
+}
+a:hover:after,
+a:focus:after {
+    width: 100%;
+}
+.cursive {
+    text-align: center;
+margin-top: 10%;
+font-family: 'Dancing Script', cursive;
+
+
+
+}
+h1 {
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+   
+}
+.image {
+    width: 34px;
+    height: 30px;
+    margin-top: px;
+    position: absolute;
+    top: 23px;
+    
+}
+div {
+display:inline-block ;
+width: 270px;
+position: relative;
+margin-left: 130px;
+margin-top: 112px;
+
+}
+
+.gong {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.jonny {
+color: grey;
+text-align: right;
+font-size: 16,5px;
+font-family: 'Lato', sans-serif;
+}
+div:nth-child(4n) {
+margin-top: 100px;
+
+
+}
+.unreal {
+    position: absolute;
+top: 20px;
+left: 150px;
+}
+.real {
+    position: absolute;
+left: 650px;
+
+
+}
+.text-meet {
+color: grey;
+text-align: center;
+font-family: 'Lato', sans-serif;
+margin-left: 180px;
+margin-right: 180px;
+}
+.people {
+    display: inline;
+   height: 600px;
+}
+.one {
+    position: relative;
+    right: 700px;
+    top: 15px;
+}
+.two {
+position: relative;
+left: 477px;
+bottom: 459px;
+}
+.threeee {
+position: relative;
+left: 120px;
+bottom: 459px;
+
+}
+.matthew {
+text-transform: uppercase;
+position: relative;
+left: 190px;
+bottom: 98px;
+font-family: 'Lato', sans-serif;
+z-index: 100;
+}
+.working {
+color: grey;
+    position: relative;
+left: 195px;
+bottom: 88px;
+
+}
+.chris {
+    position: relative;
+left: 570px;
+bottom: 168px;
+font-family: 'Lato', sans-serif;
+text-transform: uppercase;
+}
+.workingg {
+    color: grey;
+    position: relative;
+left: 600px;
+bottom: 152px;
+}
+.michael {
+    position: relative;
+left: 1010px;
+bottom: 235px;
+font-family: 'Lato', sans-serif;
+text-transform: uppercase;
+}
+.workinggg {
+    color: grey;
+    position: relative;
+left: 1045px;
+bottom: 219px;
+
+
+}
+.card {
+height: 600px;
+
+}
+footer {
+    position: relative;
+    bottom: 200px;
+    left: 80px;
+}
+.footer {
+    font-family: 'Lato', sans-serif;
+    position: relative;
+left: 80px;
+bottom: 199px;
+
+}
+.end {
+position: relative;
+left: 875px;
+bottom: 245px;
+z-index: 30;
+}
+.reals {
+position: relative;
+left: 634px;
+
+}
+
